@@ -1,0 +1,6 @@
+{
+  "name": "English Dictionary",
+  "description": "English Dictionary table with Present, Meaning, Past, and Past Participle verb forms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
